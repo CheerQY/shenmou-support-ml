@@ -775,3 +775,30 @@
   width:80px;
   word-wrap:break-word;
 }
+#u618 {
+  position:absolute;
+  left:45px;
+  top:397px;
+  width:85px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u619 {
+  position:absolute;
+  left:915px;
+  top:500px;
+  width:25px;
+  height:30px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u620 {
+  position:absolute;
+  left:880px;
+  top:500px;
+  width:25px;
+  height:30px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
